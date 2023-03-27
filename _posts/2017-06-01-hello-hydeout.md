@@ -4,6 +4,7 @@ title: Hello Hydeout
 excerpt_separator:  <!--more-->
 ---
 
+한글 가독성 테스트
 Hydeout updates the original [Hyde](https://github.com/poole/hyde)
 theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
 
